@@ -2,8 +2,6 @@
 
 Pocket is a personal task and time-tracking app. Create daily task blocks, log time against targets, keep notes for each task, and review your progress through weekly, monthly, and yearly statistics.
 
-![Pocket dashboard](docs/screenshot.png)
-
 ## Features
 
 - **Daily task blocks** with time tracking and targets
@@ -17,8 +15,8 @@ Pocket is a personal task and time-tracking app. Create daily task blocks, log t
 
 | Part | Stack | Path |
 |---|---|---|
-| Backend | Python 3.13, FastAPI, SQLAlchemy (async), fastapi-mail, Jinja2 | [`backend/`](./backend) |
-| Frontend | React, TypeScript, Vite, React Router, Tailwind CSS v4 | [`frontend/`](./frontend) |
+| Backend | Python 3.13, FastAPI, SQLAlchemy (async), fastapi-mail, Jinja2 | [`backend/`](https://github.com/life-in-pocket/frontend) |
+| Frontend | React, TypeScript, Vite, React Router, Tailwind CSS v4 | [`frontend/`](https://github.com/life-in-pocket/backend) |
 
 Each part has its own README with setup instructions.
 
